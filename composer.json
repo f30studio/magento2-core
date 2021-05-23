@@ -1,0 +1,23 @@
+{
+  "name": "f30studio/magento2-core",
+  "description": "F30 Studio Magento 2 core module",
+  "type": "magento2-module",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "fathalfath30",
+      "email": "fathalfath30@gmail.com",
+      "homepage": "https://fathalfath30.github.io"
+    }
+  ],
+  "version": "1.0.0",
+  "autoload": {
+    "files": [
+      "registration.php"
+    ],
+    "psr-4": {
+      "F30Studio\\Core\\": ""
+    }
+  },
+  "require": {}
+}

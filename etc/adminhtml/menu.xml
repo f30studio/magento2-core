@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Backend:etc/menu.xsd">
+  <menu>
+    <add id="F30Studio_Core::core" title="F30 Studio" module="F30Studio_Core" sortOrder="60"
+         resource="F30Studio_Core::core"/>
+  </menu>
+</config>
