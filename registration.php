@@ -26,7 +26,7 @@ ComponentRegistrar::register(
   ComponentRegistrar::MODULE,
 
   // component name
-  'F30Studio_Social',
+  'F30Studio_Core',
 
   // current directory
   __DIR__
